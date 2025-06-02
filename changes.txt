@@ -1,3 +1,56 @@
+* Update: 1.0.5(c) *
+
+Bug Fixes
++ Fixed crash issue
++ Fixed cpad issue
+
+Removed
++ Temporary removed new settings
++ Temporary removed /togsettings
+
+* Update: v1.0.5 *
+
+Added
++ Toggleable Custom Menu (for AML, sm ppl use SAUtils/MoreSettings)
++ Game Settings moved to Custom Menu
++ Fixed Overlapping CPad
++ Fixed drive-by
++ Disappearing spawnscreen/button
++ added new command -> '/togsettings'
+
+* Update: v1.0.4(e) *
+
+Bug Fixes
++ Fixed Overlapping CPad
++ Fixed drive-by
++ Disappearing spawnscreen/button
+
+Removed
++ Hide map in (/hidegui)
+
+* Update: v1.0.4(d) *
+
+Bug Fixes
++ fully recoded buttons
++ client gettin' rejected/kicked from the server for unknown reason
++ optimized touchevent
++ special action/animation
++ invalid authkey
+
+Added
++ new spawn screen buttons
+
+Removed
++ built in first person perspective/mod
++ removed scrollbar/scrollpanel from chatbox/window
++ new interface -> dialog = temporarily removed
+
+* Update: v1.0.4(c) *
+
+Bug Fixes
++ ALT Button Fixed (double tap)
++ Reconnect Cmd Fixed
+
 * Update: v1.0.4(b) *
 
 Bug Fixes
