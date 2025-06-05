@@ -1,3 +1,46 @@
+* Update: 1.0.5(e) *
+
+Added
++ '/editobj' command
++ Edit Object Feature
+
+Improved
++ UI theme/style
++ Menu/IG Settings theme/style
++ Menu/IG Settings Saving Feature(autosave)
++ Faster Settings Loading
++ Player Attachment
++ Edit Object Interface
++ Data Loading & Saving optimization
+
+Fixed
++ Hide Button feature
++ New Settings Screen ('/togsettings') not saving
+
+Removed
++ 'Save' Button on Menu/IG Settings
+
+* Update: 1.0.5(d) *
+
+Added
++ customizeable button color(both new/old interface)
++ '/btn' to change button color
++ '/togsettings' added again
++ custom menu added
++ custom settings added
++ added more selection on settings
++ new interface style/theme
++ new scoreboard
++ new ingame settings
+
+Fixes
++ black/dark interior (use full data)
++ fixed drunk camera
++ additional fixes on special animation
+
+Removed
++ removed '/hidegui', not actually removed js 'improved'
+
 * Update: 1.0.5(c) *
 
 Bug Fixes
