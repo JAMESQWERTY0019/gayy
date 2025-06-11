@@ -3,6 +3,9 @@
 Added
 + '/editobj' command
 + Edit Object Feature
++ passenger button
++ adjustable passenger button position
++ saveable page size and font size (remove menu_settings.ini if it doesn't work).
 
 Improved
 + UI theme/style
@@ -16,6 +19,7 @@ Improved
 Fixed
 + Hide Button feature
 + New Settings Screen ('/togsettings') not saving
++ Toys isnt gettin' erased/destroyed from the map when a player leave/left
 
 Removed
 + 'Save' Button on Menu/IG Settings
