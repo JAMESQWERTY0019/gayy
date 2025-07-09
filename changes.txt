@@ -11,6 +11,7 @@ Fixes
 + Abnormal Crash Issue
 + Material Texture
 + Slippery Floor
++ H Button to open garage (horn still bug)
 
 Added
 + Latest AML Version
@@ -19,9 +20,6 @@ Added
 + Customizeable Chat Size
 + New Interface Dialog
 + New Interface Scoreboard
-+ Adjustable Aim Sensitivity
-+ Screenshot Feature
-+ Keyboard & Mouse Support(we gonn' drop keybinds later)
 + Weapon Switch
 + Adjustable Weapon Switch (position & size)
 + /editobject command (Button Type/PC Edit Object Type)
@@ -34,6 +32,8 @@ Adjusted
 
 Removed
 + Temporary removed /sens command
++ Temporary removed screenshot
++ Temporary removed mouse & keyboard
 
 * Update: 1.0.5(e) *
 
