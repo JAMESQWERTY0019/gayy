@@ -9,6 +9,7 @@ Fixes
 + Animated Texture
 + Object Color
 + Abnormal Crash Issue
++ Material Texture
 
 Added
 + Latest AML Version
