@@ -1,3 +1,37 @@
+* Update: 1.0.6 *
+
+Fixes
++ Passenger Button
++ Widget Buttons
++ Appending Logs
++ Vertex Light/Object Lighting
++ Object Animation
++ Animated Texture
++ Object Color
++ Abnormal Crash Issue
+
+Added
++ Latest AML Version
++ PC Edit Object
++ Adjustable Passenger Button (position & size)
++ Customizeable Chat Size
++ New Interface Dialog
++ New Interface Scoreboard
++ Adjustable Aim Sensitivity
++ Screenshot Feature
++ Keyboard & Mouse Support(we gonn' drop keybinds later)
++ Weapon Switch
++ Adjustable Weapon Switch (position & size)
++ /editobject command (Button Type/PC Edit Object Type)
+
+Adjusted
++ Mobile Menu Map Opacity
++ Watermark Position
++ Chat String Settings removed from Launcher -> '/pagesize'
+
+Removed
++ Temporary removed /sens command
+
 * Update: 1.0.5(e) *
 
 Added
