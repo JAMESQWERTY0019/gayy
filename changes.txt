@@ -29,6 +29,7 @@ Adjusted
 + Mobile Menu Map Opacity
 + Watermark Position
 + Chat String Settings removed from Launcher -> '/pagesize'
++ Draw Distance Max Value (1200 -> 2000)
 
 Removed
 + Temporary removed /sens command
