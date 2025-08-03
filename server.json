@@ -7,6 +7,10 @@
         {
             "host": "135.148.140.57",
             "port": "7777"
+        },
+        {
+            "host": "rpg.valrisegaming.com",
+            "port": "7777"
         }
     ]
 }
