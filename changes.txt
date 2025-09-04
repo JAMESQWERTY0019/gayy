@@ -1,3 +1,42 @@
+* Update: 1.0.6(b) *
+Corrected Keyboard/Widget Mapping
+(based on https://sampwiki.blast.hk/wiki/Keys)
++ TextDraw
++ C3DTextLabel
++ Chat Message
++ Vehicle Colors
+
+Implemented
++ New Dialog Interface
++ Chat Logs
++ Togglable Jiggle Support (/togjiggle)
++ Corrected Selectable TextDraw State
++ Keyboard Handler(not mobilador/otg)
++ Aim Camera Like PC
++ Adjustable Widget Alpha
++ Aim Indicator Like PC
++ Modloader
++ Mobilador/OTG
++ Adjustable edit object added value (/editobj [pos/rot/scale]
++ Added /save command
++ Fighting style
++ F8 (ScreenShot)
++ Added Weapon Switch & Block Widget
++ Added DisableRadarTouch (/dradartouch)
++ Added Vehicle Cinematic Camera
+
+Fixes
++ Crash issue
+
+Adjusted
++ Adjusted Edit Object Movement Value
++ Optimized Loading Screen
+
+Removed
++ Temporary removed advanced shadow (fps drop)
++ Temporary removed /sens
++ Lock On
+
 * Update: 1.0.6 *
 
 Fixes
